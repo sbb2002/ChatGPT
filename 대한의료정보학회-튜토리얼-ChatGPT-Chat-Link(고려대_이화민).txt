@@ -1,0 +1,16 @@
+01. 기본활용법
+https://chat.openai.com/share/5f20fd83-24d7-48d1-a9a7-5eb4c42418cc
+02. 연구활용 예제
+https://chat.openai.com/share/5abe85d9-2e1d-4a43-b246-ed0b533e0af0
+03. Prompt Engineering Tips
+https://chat.openai.com/share/480785f6-2291-430d-a23f-7d8a3f14575b
+04. 과학기술 글쓰기 예제
+https://chat.openai.com/share/c95f8113-dbe2-4097-9e50-a17f47680d07
+05. DAN 논문 요약
+https://chat.openai.com/share/bcadf747-4165-42bb-b070-6605d44dcd8d
+06. 영어논문 작성 예제
+https://chat.openai.com/share/0374cba7-1ebd-4873-8235-015b16159097
+07. 논문 본문 작성 예제
+https://chat.openai.com/share/ae91ec3b-f976-41b9-b638-e3361f6191b1
+08. Reverse Prompt
+https://chat.openai.com/share/1e403304-82d5-4b0f-b3a5-b47a6e72aa7a
